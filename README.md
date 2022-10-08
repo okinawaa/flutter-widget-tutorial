@@ -10,6 +10,7 @@
 
 - [Basics](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Basics)
   - [AppBar](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Basics/AppBar.md)
+  - [Column](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Basics/Column.md)
 
 - [Accessibility](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Accessibility)
 
