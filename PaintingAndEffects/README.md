@@ -5,3 +5,4 @@
 ### Widget List
 
 - [BackdropFilter](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/PaintingAndEffects/BackdropFilter.md)
+- [ClipRect](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/PaintingAndEffects/ClipRect.md)

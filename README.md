@@ -35,6 +35,7 @@
 - [PaintingAndEffects](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/PaintingAndEffects)
 
   - [BackdropFilter](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/PaintingAndEffects/BackdropFilter.md)
+  - [ClipRect](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/PaintingAndEffects/ClipRect.md)
 
 - [Scrolling](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Scrolling)
 
