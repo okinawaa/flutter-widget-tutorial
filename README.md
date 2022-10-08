@@ -9,6 +9,7 @@
 카테고리별로 위젯을 확인할 수 있습니다.
 
 - [Basics](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Basics)
+
   - [AppBar](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Basics/AppBar.md)
   - [Column](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Basics/Column.md)
   - [Row](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Basics/Row.md)
@@ -32,7 +33,8 @@
 - [MaterialComponents](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/MaterialComponents)
 
 - [PaintingAndEffects](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/PaintingAndEffects)
-  - [BackdropFilter](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Basics/BackdropFilter.md)
+
+  - [BackdropFilter](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/PaintingAndEffects/BackdropFilter.md)
 
 - [Scrolling](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Scrolling)
 
