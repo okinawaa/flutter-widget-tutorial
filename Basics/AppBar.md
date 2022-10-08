@@ -4,6 +4,8 @@
 
 Object > DiagnosticableTree > Widget > StatefulWidget > AppBar
 
+---
+
 ### Description
 
 Material Design의 형태를 띄고 있는 AppBar 입니다.
@@ -18,6 +20,8 @@ leading, title, actions 들을 사용할 수 있습니다.\
 <img width="445" alt="image" src="https://user-images.githubusercontent.com/69495129/194686531-0d1bb2d5-9144-4db1-8928-ab11b3761a5b.png">
 
 출처: 구글 플러터 공식문서
+
+---
 
 `위 이미지를 보고 bottom 속성은 앱 최하단의 위치할 위젯이라고 착각했습니다. AppBar 내부에서 하단쪽에 위치할 위젯을 명시해주는 속성입니다.`
 
@@ -64,6 +68,8 @@ leading, title, actions 들을 사용할 수 있습니다.\
 
 AppBar는 주로 Scafold 위젯에서 appBar 속성으로 사용됩니다. 위 예제처럼 title을 이용하여, AppBar내에 표시될 글자를 나타낼 수 있습니다.
 actions 라는 속성을 사용하면, 위젯의 배열을 받을 수 있습니다. AppBar내의 우측에 나타낼 위젯들을 삽입할 수 있습니다. 현재는 IconButton들을 배열 형태로 받고 있기 때문에 우측에 종 이미지를 확인할 수 있습니다.
+
+---
 
 ### Primary properties
 
@@ -150,5 +156,7 @@ AppBar의 toolbar부분에 적용될 투명도를 설정해줍니다.
 AppBar의 toolbar부분에 적용될 공통 스타일을 설정해줍니다.\
 toolbar부분에는 leading, actions 위젯들이 포함됩니다.\
 titleTextStyle 이 따로 있는것을 보고 아시겠지만, 이 속성은 title 위젯에는 영향을 주지 않습니다.
+
+---
 
 `최종 수정일 : 22/10/08`

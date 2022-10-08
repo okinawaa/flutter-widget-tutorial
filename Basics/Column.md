@@ -4,6 +4,8 @@
 
 Object > DiagnosticableTree > Widget > RenderObjectWidget > MultiChildRenderObjectWidget > Flex > Column
 
+---
+
 ### Description
 
 여러 위젯들을 children 으로 하여, 수직(세로) 방향으로 나열하고 싶을 경우 사용합니다.
@@ -18,6 +20,8 @@ Column 위젯은 위에서 기술한것과 여러 위젯들을 나열할 수 있
 Column 위젯 내부에서 주축(main-axis)는 세로 방향이고, 서브축(cross-axis)은 가로 방향입니다. 당연히 Row 위젯은 이 반대입니다.
 
 웹 개발에서의 Flex의 direction을 Column으로 한 뒤, flex-diretion을 column으로 주면 플러터에서의 Column위젯과 같은 행동을 합니다.
+
+---
 
 ### Example
 
@@ -36,6 +40,8 @@ Column(
 위 예제는 여러 Text라는 위젯들을 세로로 위치시키고 싶었기 때문에 Column 위젯을 사용하였습니다. \
 위 글자들은 서브축 방향으로 가운데 정렬되어있습니다. 하지만 서비스를 개발할때에는 좌측으로부터 텍스트들이 시작되어진 디자인이 많습니다. 그럴경우에는 서브축은! 중심정렬 말고 처음부터 뻗어나가는 구조로 진행해줘! 라고 말하면됩니다.
 
+---
+
 ![image](https://user-images.githubusercontent.com/69495129/194699671-3cc33213-ed58-4aff-99c4-9e8337c50f63.png)
 
 ```dart
@@ -50,6 +56,8 @@ Column(
 ```
 
 위와같이 crossAxisAlignment 속성을 추가해줌으로써 서브축 방향으로 자식들의 정렬을 조정할 수 있습니다.
+
+---
 
 ### Troubleshooting
 
@@ -81,6 +89,8 @@ Column(
 
 이는 ListView의 높이가 지정되어있지 않기 때문입니다. 위에서도 기술한 것과 같이 Column위젯은 자식의 높이를 제약하지 않습니다<br>
 그러므로 ListView를 Expanded, Flexible과 같은 위젯으로 감싸준다면, Column의 나머지 영역만을 차지해! 라는 구문이 되므로 오류를 발생시키지 않습니다.
+
+---
 
 ### Primary properties
 
