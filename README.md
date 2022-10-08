@@ -32,6 +32,7 @@
 - [MaterialComponents](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/MaterialComponents)
 
 - [PaintingAndEffects](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/PaintingAndEffects)
+  - [BackdropFilter](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Basics/BackdropFilter.md)
 
 - [Scrolling](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Scrolling)
 
