@@ -19,6 +19,7 @@
 - [AnimationAndMotion](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/AnimationAndMotion)
 
   - [AnimatedContainer](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/AnimationAndMotion/AnimatedContainer.md)
+  - [AnimatedList](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/AnimationAndMotion/AnimatedList.md)
 
 - [AssetsImagesIcons](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/AssetsImagesIcons)
 

@@ -5,3 +5,4 @@
 ### Widget List
 
 - [AnimatedContainer](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/AnimationAndMotion/AnimatedContainer.md)
+- [AnimatedList](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/AnimationAndMotion/AnimatedList.md)
