@@ -8,42 +8,42 @@
 플러터가 제공해주는 잘 짜여진 위젯을 활용해서 빠르게 UI를 구축할 수 있습니다.
 카테고리별로 위젯을 확인할 수 있습니다.
 
-- [Basics](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Basics)
+- [Basics](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/Basics)
 
-  - [AppBar](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Basics/AppBar.md)
-  - [Column](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Basics/Column.md)
-  - [Row](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Basics/Row.md)
+  - [AppBar](https://github.com/okinawaa/flutter-widget-tutorial/blob/main/Basics/AppBar.md)
+  - [Column](https://github.com/okinawaa/flutter-widget-tutorial/blob/main/Basics/Column.md)
+  - [Row](https://github.com/okinawaa/flutter-widget-tutorial/blob/main/Basics/Row.md)
 
-- [Accessibility](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Accessibility)
+- [Accessibility](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/Accessibility)
 
-- [AnimationAndMotion](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/AnimationAndMotion)
+- [AnimationAndMotion](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/AnimationAndMotion)
 
-  - [AnimatedContainer](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/AnimationAndMotion/AnimatedContainer.md)
-  - [AnimatedList](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/AnimationAndMotion/AnimatedList.md)
+  - [AnimatedContainer](https://github.com/okinawaa/flutter-widget-tutorial/blob/main/AnimationAndMotion/AnimatedContainer.md)
+  - [AnimatedList](https://github.com/okinawaa/flutter-widget-tutorial/blob/main/AnimationAndMotion/AnimatedList.md)
 
-- [AssetsImagesIcons](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/AssetsImagesIcons)
+- [AssetsImagesIcons](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/AssetsImagesIcons)
 
-- [Async](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Async)
+- [Async](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/Async)
 
-  - [FutureBuilder](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Async/FutureBuilder.md)
+  - [FutureBuilder](https://github.com/okinawaa/flutter-widget-tutorial/blob/main/Async/FutureBuilder.md)
 
-- [Cupertino](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Cupertino)
+- [Cupertino](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/Cupertino)
 
-- [Input](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Input)
+- [Input](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/Input)
 
-- [InteractionModels](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/InteractionModels)
+- [InteractionModels](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/InteractionModels)
 
-- [Layout](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Layout)
+- [Layout](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/Layout)
 
-- [MaterialComponents](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/MaterialComponents)
+- [MaterialComponents](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/MaterialComponents)
 
-- [PaintingAndEffects](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/PaintingAndEffects)
+- [PaintingAndEffects](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/PaintingAndEffects)
 
-  - [BackdropFilter](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/PaintingAndEffects/BackdropFilter.md)
-  - [ClipRect](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/PaintingAndEffects/ClipRect.md)
+  - [BackdropFilter](https://github.com/okinawaa/flutter-widget-tutorial/blob/main/PaintingAndEffects/BackdropFilter.md)
+  - [ClipRect](https://github.com/okinawaa/flutter-widget-tutorial/blob/main/PaintingAndEffects/ClipRect.md)
 
-- [Scrolling](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Scrolling)
+- [Scrolling](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/Scrolling)
 
-- [Styling](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Styling)
+- [Styling](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/Styling)
 
-- [Text](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/tree/main/Text)
+- [Text](https://github.com/okinawaa/flutter-widget-tutorial/tree/main/Text)
