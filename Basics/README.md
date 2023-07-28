@@ -4,6 +4,6 @@
 
 ### Widget List
 
-- [AppBar](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Basics/AppBar.md)
-- [Column](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Basics/Column.md)
-- [Row](https://github.com/ChanhyukPark-Tech/flutter-widget-tutorial/blob/main/Basics/Row.md)
+- [AppBar](https://github.com/okinawaa/flutter-widget-tutorial/blob/main/Basics/AppBar.md)
+- [Column](https://github.com/okinawaa/flutter-widget-tutorial/blob/main/Basics/Column.md)
+- [Row](https://github.com/okinawaa/flutter-widget-tutorial/blob/main/Basics/Row.md)
